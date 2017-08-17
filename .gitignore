@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+_site/
+*.swp
+*.~vsd
+\#*\#
+*~
+.DS_Store
+Gemfile.lock
+superyjcqw.github.io.iml
