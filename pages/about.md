@@ -1,18 +1,16 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 知识改变命运
+keywords: superyjcqw, 出水小葱
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+念念不忘，必有回响。
 
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+有一口气，点一盏灯。
 
 ## 联系
 
